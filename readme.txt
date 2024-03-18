@@ -1,22 +1,5 @@
 ==================================================================================================
 
-DESCRIPTION:
-
-MONICA is a carefully crafted and modern HTML website template designed for freelancers, social 
-media managers, and marketing consultants who help businesses and companies improve their online 
-presence and establish long-lasting relationships with their communities. It is an excellent tool 
-for telling people about your skills and credentials, services, and other offerings, giving them 
-a better idea of who you are.
-
-==================================================================================================
-
-
-LICENSE:
-
-This free resource is provided by styleshout.com and is free to use in 
-both personal and commercial projects.
-
-
 Rights:
 -------
 
@@ -49,32 +32,7 @@ If you have any questions about the License, feel free to contact us.
 
 -----------------------------------------------------------------------------------------------------
 
-
-REMOVING THE ATTRIBUTION LINK:
-
-We understand that there are situations where you want to use our templates without 
-the crediting obligation. If that's your case, you can always send us a 
-credit removal fee of 10 USD through Paypal. This will allow you to use a single 
-template attribution/credit link free on ONE DOMAIN name.
-
-You can send your payments through Paypal to this address: ealigam@gmail.com or
-visit our attribution removal page: https://www.styleshout.com/attribution-free/ 
-and click the pay button on the page.
-
-If possible, kindly send us the site's url where the template is being used. 
-Also, keep your Paypal receipt as proof of payment and your good to go.
-
-
------------------------------------------------------------------------------------------------------- 
-
-
 SUPPORT:
-    
-Since MONICA is distributed for free, support is not offered. MONICA is coded according 
-to current web standards and we did our best to make the template easy to use and modify.
-If you have minimum web development experience, you can easily modify the template. 
-However, If you're still new to HTML and CSS, I suggest that you visit the 
-following tutorials:
 
  - https://marksheet.io/
  - http://learn.shayhowe.com/html-css/
@@ -144,8 +102,3 @@ Javascript Files:
  - Swiper JS (https://swiperjs.com/)
 
 -------------------------------------------------------------------------------------------------------
-
-
-Thanks for downloading from StyleShout :)
-
-
