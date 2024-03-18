@@ -102,8 +102,3 @@ Javascript Files:
  - Swiper JS (https://swiperjs.com/)
 
 -------------------------------------------------------------------------------------------------------
-
-
-Thanks for downloading from StyleShout :)
-
-
